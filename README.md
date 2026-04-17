@@ -1,3 +1,4 @@
+# RackNerd AppSumo: The Myths, The Facts, and Why the Real Deals Are Even Better Than You Think
 
 So you've heard about the RackNerd AppSumo deal. Someone in a forum mentioned it, or you saw an old blog post hyping up the $9.98/year cPanel hosting. You went looking for it. And then... nothing. The AppSumo listing is gone, the deal is sold out, and now you're wondering if you missed the boat or if the whole thing was some kind of mirage.
 
